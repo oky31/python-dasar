@@ -18,13 +18,12 @@ di gunakan untuk mencetak expresi ke layar.
 	print("selamat \"datang\" di indonesia")  #selamat "datang" di indonesia
 	print('selamat "datang" di indonesia') #selamat "datang" di indonesia
 
-ketika di dalam string mengunakan tanda kutip tunggal atau tanda kutip \n
-ganda , gunakan tanda \ lalu diikuti kutip tunggal atau kutip ganda maka\n
+ketika di dalam string mengunakan tanda kutip tunggal atau tanda kutip ganda , gunakan tanda \ lalu diikuti kutip tunggal atau kutip ganda maka
 akan menampilkan tanda kutip tunggal atau kutip ganda.
  
 ## menghilangkan tanda \ sebagai karakter special
-jika kita ingin menampilkan tanda \ di dalam string gunakan fungsi \n
-**print(r'...')**, fungsi ini akan menampilkan raw string contoh :\n
+jika kita ingin menampilkan tanda \ di dalam string gunakan fungsi 
+**print(r'...')**, fungsi ini akan menampilkan raw string contoh :  
 	
 	print('c:\xampp\nama') # c:\xampp
 						   # ama

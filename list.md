@@ -17,4 +17,8 @@ setiap nilai di dalam List bisa di modifikasi dan diganti
 	list 		# [10,20,30,40]
 
 
+## built-in function list()
+	fungsi ini di gunakan untuk menghasilakan list
+
+
 

@@ -1,6 +1,5 @@
 # Number 
-Python memiliki 2 type number yaitu 'int' dan 'float'. kedua tipe ini bisa melakukan operasi matematik\n
-seperti pada bahasa pemrograman lainya, operator yang terdapa di dalam python yaitu :
+Python memiliki 2 type number yaitu 'int' dan 'float'. kedua tipe ini bisa melakukan operasi matematika seperti pada bahasa pemrograman lainya operator yang terdapa di dalam python yaitu :
 	
 	+   -> operator tambah
 	-   -> operator kurang
