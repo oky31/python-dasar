@@ -85,4 +85,8 @@ __next__()
 
 
 # Generators
+adalah teknik untuk :    
+* me-returnkan sekumpulan perhitungan  secara satu per satu
+* yang di simpan di dalam memori hanya 1 buah hasil perhitungan dari sekumpulan perhitungan 
+
 Adalah Alat untuk membuat Iterator . ketika mereturnkan data gunakan statment `yield` 
